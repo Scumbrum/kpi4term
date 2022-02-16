@@ -23,7 +23,7 @@ int main()
     int pagesCount = 0;
     int words = 0;
     const int MAX = 100;
-    const int SEPARATOR = 25;
+    const int SEPARATOR = 45;
     int currSymb = -1;
     int wordCount = 0;
     countW:
